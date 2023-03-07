@@ -1,3 +1,11 @@
+downloads
+
+npm i node-modules
+npm install @mui/material @emotion/react @emotion/styled
+npm i @mui/icons-material
+npm install @formkit/auto-animate
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
