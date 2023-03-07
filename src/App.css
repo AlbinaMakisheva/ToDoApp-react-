@@ -426,7 +426,7 @@ body{
     margin: 15px
   }
 
-  #button-notif, #button-delete, #button-edit{
+  #button-notif, #button-delete, #button-edit, #button-info{
     margin: 10px 6px 3px;
     justify-items: center;
     min-width: 30px;
